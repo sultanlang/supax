@@ -20,6 +20,6 @@ supax install sultan
 ```
 
 This should install 
-[Sultan](https://github.com/sultanlang/sultan)
+[Sultan](https://github.com/sultanlang/sultan) compiler
 
 
