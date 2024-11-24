@@ -4,7 +4,8 @@
 
 Sultan Universal Package Access eXchange
 
-
+# note
+still beta
 
 For the start supax now only install the core compiler of sultanc
 
